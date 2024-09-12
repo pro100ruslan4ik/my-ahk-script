@@ -1,6 +1,6 @@
-CapsLock + H  =  <-                                                                                                          
-CapsLock + J =  v                                                                                                      
-CapsLock + K  =  л                                                                                                
-CapsLock + L  =  ->                                                                                                                                                
+CapsLock + H  =  Left                                                                                                          
+CapsLock + J =  Down                                                                                                      
+CapsLock + K  =  Up                                                                                                
+CapsLock + L  =  Right                                                                                                                                                
 
 CapsLock + W  =  ^W
