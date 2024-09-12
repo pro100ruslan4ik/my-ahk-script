@@ -1,5 +1,5 @@
-CapsLock + H  =  <-
-CapsLock + J =  v
+CapsLock + H  =  <-                                                                                                          
+CapsLock + J =  v                                                                                                      
 CapsLock + K  =  л
 CapsLock + L  =  ->
 
