@@ -7,6 +7,6 @@ CapsLock + L  =  Right
 
 CapsLock + W  =  ^W
 
-CapsLock + C  =  ^C
-CapsLock + V  =  ^V
-CapsLock + X  =  ^X
+CapsLock + C  =  ^C  
+CapsLock + V  =  ^V  
+CapsLock + X  =  ^X  
